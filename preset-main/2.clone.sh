@@ -11,6 +11,10 @@ git clone --depth 1 https://github.com/jerrykuku/luci-app-vssr.git
 git clone --depth 1 https://github.com/jerrykuku/lua-maxminddb.git
 git clone --depth 1 https://github.com/Ausaci/luci-app-nat6-helper.git
 git clone --depth 1 -b packages https://github.com/xiaorouji/openwrt-passwall.git pw-dependencies
+git clone --depth 1 https://github.com/rufengsuixing/luci-app-zerotier.git
+git clone --depth 1 https://github.com/rufengsuixing/luci-app-adguardhome.git
+git clone --depth 1 https://github.com/sirpdboy/luci-app-netdata.git
+git clone --depth 1 https://github.com/zzsj0928/luci-app-pushbot.git
 svn export https://github.com/xiaorouji/openwrt-passwall/branches/luci/luci-app-passwall
 svn export https://github.com/xiaorouji/openwrt-passwall2/trunk/luci-app-passwall2
 svn export https://github.com/vernesong/OpenClash/trunk/luci-app-openclash
